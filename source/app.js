@@ -29,7 +29,7 @@ function toggleButton() {
 
 // hamburgerButton.addEventListener('click', toggleButton);
 
-///////////////////////////////////////
+//////////////////////////////////////////
 // Modal window
 
 const openModal = function (e) {
